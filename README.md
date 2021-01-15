@@ -1,4 +1,5 @@
-# MALIS_Project
+# MALIS Project
+## EURECOM, Fall Semester 2020/2021, Eugène Berta and Patrick Iversenc
 Repository for the MALIS course project, EURECOM, Fall Semester 2020/2021, Eugène Berta &amp; Patrick Iversenc
 
 * The repo Datasets/ contains all the files we used to train our deep learning algorithm.
