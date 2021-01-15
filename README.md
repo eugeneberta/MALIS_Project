@@ -8,6 +8,8 @@ Repository for the MALIS course project, EURECOM, Fall Semester 2020/2021, Eugè
 
 * The repo Silhouette_Generator/ was provided by Smartpixels, it contains every file necessary to run the Silhouette Generator.
 
+* The repo detectron2/ is a link to the detectron2 official git repository, used in the first part of the project.
+
 * The repo masks/ contains binary masks, outputs for part1 and inputs for part2 of the project.
 
 * The repo unlabeled_dataset/ contains image files only, from which we built our segmented datasets.
